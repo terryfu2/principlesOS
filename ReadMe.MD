@@ -1,5 +1,5 @@
 # Operating System Operations Simulations
-
+ 
 ## Palindrome
 
 Read through a file and find the longest palindrome. Needs to be as efficent as possible, as file sizes reach 2Gb+ and needs to finish under 30secs.
